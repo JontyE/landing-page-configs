@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Prompt Roofing – Free Roof Inspection in Gauteng",
+    "description": "Expert roof repairs, waterproofing & painting. Book your FREE roof inspection today!",
+    "keywords": "roof repairs, waterproofing, Gauteng, free inspection"
+  },
+  "hero": {
+    "headline": "Protect Your Roof Before the Next Storm Hits",
+    "subheadline": "Get a Free Roof Inspection & Transparent Quote Within 24 Hours",
+    "backgroundImage": "https://cdn.example.com/images/hero.jpg"
+  },
+  "cta": {
+    "buttonText": "Book My Free Inspection"
+  },
+  "benefits": [
+    "10-Year Waterproofing Guarantee",
+    "Affordable Pricing Plans",
+    "Same-Day Quotes Available"
+  ],
+  "testimonials": [
+    {
+      "name": "Linda M.",
+      "quote": "Prompt Roofing fixed my leak in one day – professional and fast!"
+    },
+    {
+      "name": "Thabo R.",
+      "quote": "Great service and even better results. Highly recommended."
+    }
+  ],
+  "style": {
+    "primaryColor": "#004080",
+    "accentColor": "#FF6600",
+    "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+    "buttonRadius": "6px"
+  }
+}
