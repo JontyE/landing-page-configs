@@ -7,13 +7,13 @@
   "hero": {
     "headline": "Protect Your Roof Before the Next Storm Hits",
     "subheadline": "Get a Free Roof Inspection & Transparent Quote Within 24 Hours",
-    "backgroundImage": "https://cdn.example.com/images/hero.jpg"
+    "backgroundImage": "https://promptroofing-jhb.co.za/wp-content/uploads/2024/12/workerclimbingladder-459-left.webp"
   },
   "cta": {
     "buttonText": "Book My Free Inspection"
   },
   "benefits": [
-    "10-Year Waterproofing Guarantee",
+    "3-Year Waterproofing Guarantee",
     "Affordable Pricing Plans",
     "Same-Day Quotes Available"
   ],
@@ -31,6 +31,6 @@
     "primaryColor": "#004080",
     "accentColor": "#FF6600",
     "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
-    "buttonRadius": "6px"
+    "buttonRadius": "1px"
   }
 }
